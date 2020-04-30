@@ -5,6 +5,7 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="yandex-verification" content="31b3d4f00e4288b3" />
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
     <title>Генераторы и шиномантаж</title>
@@ -16,7 +17,7 @@
     <div class="d-flex flex-wrap">
         <div class="card mb-4 shadow-sm">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal"> Ремонт генераторов и стартеров</h4>
+                <h4 class="my-0 font-weight-normal"> Ремонт генераторов, стартеров и шиномонтаж</h4>
             </div>
             <div class="dist card-body">
                     <img class="img" src="img/1.jpg" alt="" class="img-thumbnail">
@@ -29,9 +30,13 @@
                 <div class="col-xl outer">
                     <div class="inner">
                     <ul class="list-unstyled ">
+                        <li><h3 class="color_text1 align-middle">График работы</h3></li>
+                        <li><p class="color_text1 align-middle" >Пн-пт 9:00-19:00 без перерыва</p></li>
+                        <li><p class="color_text1 align-middle" >Сб 9:00-15:00 без перерыва</p></li>
+                        <li><p class="color_text1 align-middle" >Вс выходной</p></li>
                         <li><h2 class="color_text1 align-middle">Позвоните прямо сейчас</h2></li>
                         <li><p class="color_text1 align-middle" >и запишись на <b>бесплатную</b> диагностику</p></li>
-                        <li  style="padding: 0 0 0 5rem"><a class="btn btn-outline-primary" href="tel:79250034517"><big>8(925)003-45-17</big></a>
+                        <li  style="padding: 0 0 0 5rem"><a class="btn btn-outline-primary" href="tel:79261514577"><big>8(926)151-45-77</big></a>
                     </ul>
                     </div>
                 </div>
@@ -41,7 +46,7 @@
                 <div class="col-xl outer">
                     <div class="inner">
                     <ul class="list-unstyled" style="margin-left: 1rem">
-                        <li><p><b> > 18 лет</b>
+                        <li><p><b> > 15 лет</b>
                                 работы в сфере диагностики и ремонта
                                 стартеров и генераторов
                             </p></li>
@@ -56,12 +61,23 @@
             </div>
             <div class="container">
                 <div class="dist row">
-                    <div class="col-xl outer color_text">
+                    <div class="col-xl outer">
                         <div class="inner">
                         <ul class="list-unstyled">
-                        <li><h3>Продажа, ремонт и техническое обслуживание стартеров и генераторов для любого вида техники</h3></li>
-                        <li>Для всех марок автомобилей зарубежного и отечественного производства Всё в наличии в Москве!</li>
+                        <li class=" color_text"><h3>Продажа, ремонт и техническое обслуживание стартеров и генераторов для любого вида техники</h3></li>
+                        <li class=" color_text">Для всех марок автомобилей зарубежного производства<br> Всё в наличии в Москве!</li>
+                        <br>
                         </ul>
+                            <div><h3 class="color_text2"><a class="p-2 text-dark" href="genstar.php">Новые и восстановленные агрегаты</a></h3>
+                                <div class="row color_text2" style="margin-bottom: 2rem">
+                                    <div class="col " style="margin-top: 2rem">
+                                        <a class="p-2 text-dark" href="genstar.php">Генераторы</a>
+                                        <img style="margin-top: 1rem" src="img/generator2.jpg" alt="" class="img_height img-fluid"></div>
+                                    <div class="col" style="margin-top: 2rem">
+                                        <a class="p-2 text-dark" href="genstar.php">Стартеры</a>
+                                        <img style="margin-top: 1rem" src="img/starter1.jpg" alt="" class="img_height img-fluid"></div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                     <div class="col-xl">
@@ -73,7 +89,9 @@
                             <div class="col">Автобусы и микоавтобусы<img src="img/tech4.jpg" alt="" class="img_height img-fluid"></div>
                         </div>
                     </div>
+
                 </div>
+
                 <div class="dist row">
                     <div class="col outer">
                         <div class="inner">
@@ -87,15 +105,34 @@
                         <img class="img" src="img/ustrojstvo-startera.jpg" alt="" class="img-thumbnail">
                     </div>
                 </div>
+                <div class="card-header">
+                    <h4 class="my-0 font-weight-normal">Шиномонтаж</h4>
+                </div>
+                <div class="dist row">
+                    <div class="col-xl">
+                        <img class="img" src="img/5.jpg" alt="" class="img-thumbnail">
+                    </div>
+                    <div class="col outer">
+                        <div class="inner">
+                            <ul class="list-unstyled">
+                                <li><h3>Шиномонтаж для автомобилей R-13-22 включая класс Runflat</h3></li>
+                                <li>Гарантия качества выполнения услуг.</li>
+                                <li>Опытные мастера. Профессиональное оборудование.</li>
+                                <li>Доступная стоимость.</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
                 <div class="row dist">
                     <div class="container" style="position: relative; margin: 0 auto">
                     <ol class="list-counter-circle">
                         <li>
-                            <b>Оставьте заявку или позвоните нам</b><br>
-                            Выбирайте любой из трех филиалов
+                            <b>Позвоните нам</b><br>
+                            Получите консультацию по ремонту генераторов и стартеров
                         </li>
                         <li>
-                            <b>Принимаем авто в ремонт</b><br>
+                            <b>Принимаем агрегаты в ремонт</b><br>
                             Открываем заказ-наряд и определяем неисправности
                         </li>
                         <li>
@@ -104,37 +141,37 @@
                         </li>
                         <li>
                             <b>Ремонт и тестирование</b><br>
-                            Производим ремонт и тестируем на фирменном стенде, после чего устанавливаем в автомобиль
+                            Производим ремонт и тестируем на фирменном стенде
                         </li>
                         <li>
                             <b>Готово!</b><br>
-                            Получаете полностью исправный автомобиль
+                            Получаете полностью исправный агрегат
                         </li>
                     </ol>
                     </div>
                 </div>
                 <div class="dist" style="text-align: center">
                     <h3>Звоните!</h3>
-                    <a class="btn btn-outline-primary" href="tel:79250034517"><big>8(925)003-45-17</big></a>
+                    <a class="btn btn-outline-primary" href="tel:79261514577"><big>8(926)151-45-77</big></a>
                 </div>
                 <div class="card-header">
                     <h4 class="my-0 font-weight-normal"> Фотогалерея</h4>
                 </div>
-                <div class="dist row">
+                <div class="dist row" style="margin-top: 2rem">
                     <div class="col-lg-3 col-md-4 col-6">
-                        <img class="img" src="img/tech1.jpg" alt="" class="img-thumbnail">
+                        <img class="img" src="img/starter2.jpg" alt="" class="img-thumbnail">
                     </div>
                     <div class="col-lg-3 col-md-4 col-6">
-                        <img class="img" src="img/tech2.jpg" alt="" class="img-thumbnail">
+                        <img class="img" src="img/generator1.jpg" alt="" class="img-thumbnail">
                     </div>
                     <div class="col-lg-3 col-md-4 col-6">
-                        <img class="img" src="img/tech3.jpg" alt="" class="img-thumbnail">
+                        <img class="img" src="img/starter1.jpg" alt="" class="img-thumbnail">
                     </div>
                     <div class="col-lg-3 col-md-4 col-6">
-                        <img class="img" src="img/tech4.jpg" alt="" class="img-thumbnail">
+                        <img class="img" src="img/generator2.jpg" alt="" class="img-thumbnail">
                     </div>
                 </div>
-                <div class="card-header">
+                <!--<div class="card-header">
                     <h4 class="my-0 font-weight-normal"> Наши видео</h4>
                 </div>
                 <div class="dist row">
@@ -152,11 +189,20 @@
                         <iframe width="300" height="200" src="https://www.youtube.com/embed/klauOY0uoJo" frameborder="0"
                                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
+                </div>-->
+                <div class="card-header">
+                    <h4><a  class="text-dark" href="about.php"> Как нас найти</a></h4>
+                </div>
+                <div>
+                <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A14517bfa7a4cda5a61f0c905693ae817f0d194330c2eb21d71714ebdc4d9e474&amp;width=100%25&amp;height=350&amp;lang=ru_RU&amp;scroll=true"></script>
+            </div>
+                <div class="card-header">
+                    <h4 style="opacity: 0">fsafsd</h4>
                 </div>
         </div>
     </div>
 </div>
-
+</div>
 <?php require "blocks/footer.php" ?>
 </body>
 </html>
