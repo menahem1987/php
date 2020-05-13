@@ -41,7 +41,7 @@
 .color_text1{
     color: #000;
     margin: 0px auto;
-    padding: 0rem 0rem 0rem 5rem;
+    padding: 0rem 0rem 0rem 1rem;
     max-height: 500px;
 }
 .outer:after {
