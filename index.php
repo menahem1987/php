@@ -17,7 +17,7 @@
     <div class="d-flex flex-wrap">
         <div class="card mb-4 shadow-sm">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal"> Ремонт генераторов, стартеров и шиномонтаж</h4>
+                <h4 class="my-0 font-weight-normal"> Ремонт генераторов, стартеров и шиномонтаж в Жуковском</h4>
             </div>
             <div class="dist card-body">
                     <img class="img" src="img/1.jpg" alt="" class="img-thumbnail">
