@@ -5,9 +5,21 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="keywords" content="Ремонт генераторов, стартеров и шиномонтаж в Жуковском. Новые и востановленные агрегаты, стартеры,
+    генераторы. Ремонт стартера, стартеров, генератора, генераторов, в Жуковском, Раменском районе, Московская область,
+    продажа востановленных агрегатов, ремонт в тот же день, день в день, качество, гарантия, низкая стоимость,
+    шиномонтаж, балансировка, ремонт порезов проколов, стартеры и генераторы, для иномарок, Жуковский Раменское
+    Кратово, Люберцы, Малаховка, Томилино, Дзержинский, Красково, Лыткарино, Котельники, автомобильный, автомобильные">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <title>Генераторы и шиномантаж</title>
+    <title>Генераторы и стартеры. Ремонт стартеров и генераторов в Жуковском. Ремонт генераторов, стартеров и шиномонтаж в Жуковском. Новые и востановленные агрегаты, стартеры,
+        генераторы. Ремонт стартера, стартеров, генератора, генераторов, в Жуковском, Раменском районе, Московская область,
+        продажа востановленных агрегатов, ремонт в тот же день, день в день, качество, гарантия, низкая стоимость,
+        шиномонтаж, балансировка, ремонт порезов проколов, стартеры и генераторы, для иномарок, Жуковский Раменское
+        Кратово, Люберцы, Малаховка, Томилино, Дзержинский, Красково, Лыткарино, Котельники, автомобильный, автомобильные</title>
+    <meta name="description" content="Продажа, ремонт и техническое обслуживание стартеров и генераторов для любого вида техники.
+Мы знаем о стартерах и генераторах всё. Восстановим работоспособность и расскажем, как избежать неполадок в будущем!">
+
 </head>
 <body background="img/bg.jpg" class="bg">
 <?php require "blocks/header.php" ?>
@@ -49,69 +61,69 @@
                             </div >
                         </div >
                     <? endif; ?>
-                    <?php if ($i==2): ?>
+                        <?php if ($i==2): ?>
+                            <div >
+                                <div >
+                                    <p > <a style="font-size: 25px">Range Rover, Land Rover</a></p >
+                                </div >
+                            </div >
+                        <? endif; ?>
+                        <?php if ($i==3): ?>
+                            <div >
+                                <div >
+                                    <p > <a style="font-size: 25px">Audi A6</a></p >
+                                </div >
+                            </div >
+                        <? endif; ?>
+                        <?php if ($i==4): ?>
+                            <div >
+                                <div >
+                                    <p > <a style="font-size: 25px">Hyundai, Kia:</a>  Solaris, Rio</p >
+                                </div >
+                            </div >
+                        <? endif; ?>
+                        <?php if ($i==5): ?>
                         <div >
                             <div >
-                                <p > <a style="font-size: 25px">Ssang Yong:</a>  Rexton, Action, Cairon</p >
+                                <p > <a style="font-size: 25px">Ford:</a>  Focus 2, 1.8, 2.0</p >
                             </div >
                         </div >
                     <? endif; ?>
-                    <?php if ($i==3): ?>
+                        <?php if ($i==6): ?>
+                            <div >
+                                <div >
+                                    <p > <a style="font-size: 25px">Mazda3</a></p >
+                                </div >
+                            </div >
+                        <? endif; ?>
+                        <?php if ($i==7): ?>
                         <div >
                             <div >
-                                <p > <a style="font-size: 25px">Ford:</a>  Focus 2, S-Max, C-Max</p >
+                                <p > <a style="font-size: 25px">Hyundai:</a>  Santa Fe, <b>Kia</b> SportAge</p >
                             </div >
                         </div >
                     <? endif; ?>
-                    <?php if ($i==4): ?>
-                        <div >
+                        <?php if ($i==8): ?>
                             <div >
-                                <p > <a style="font-size: 25px">Dewoo:</a>  Nexia</p >
+                                <div >
+                                    <p > <a style="font-size: 25px">Dewoo:</a>  Nexia</p >
+                                </div >
                             </div >
-                        </div >
-                    <? endif; ?>
-                    <?php if ($i==5): ?>
-                        <div >
-                            <div >
-                                <p > <a style="font-size: 25px">Range Rover</a></p >
-                            </div >
-                        </div >
-                    <? endif; ?>
-                    <?php if ($i==6): ?>
-                        <div >
-                            <div >
-                                <p > <a style="font-size: 25px">Hyundai:</a>  Astra H, Vectra C, Zafira B, Meriva B</p >
-                            </div >
-                        </div >
-                    <? endif; ?>
-                    <?php if ($i==7): ?>
-                        <div >
-                            <div >
-                                <p > <a style="font-size: 25px">Mazda3</a></p >
-                            </div >
-                        </div >
-                    <? endif; ?>
-                    <?php if ($i==8): ?>
-                        <div >
-                            <div >
-                                <p > <a style="font-size: 25px">Audi A6</a></p >
-                            </div >
-                        </div >
-                    <? endif; ?>
+                        <? endif; ?>
                     <?php if ($i==9): ?>
                         <div >
                             <div >
-                                <p > <a style="font-size: 25px">Hyundai, Kia:</a>  Solaris, Rio</p >
+                                <p > <a style="font-size: 25px">Ford:</a>  Focus 2, 1.6, 1.4</p >
                             </div >
                         </div >
                     <? endif; ?>
-                    <?php if ($i==10): ?>
-                        <div >
+                        <?php if ($i==10): ?>
                             <div >
-                                <p > <a style="font-size: 25px">Ford:</a>  Focus 2, S-Max, C-Max</p >
+                                <div >
+                                    <p > <a style="font-size: 25px">Ssang Yong:</a>  Rexton, Action, Cairon</p >
+                                </div >
                             </div >
-                        </div >
-                    <? endif; ?>
+                        <? endif; ?>
                     </div>
                 </div >
 
@@ -147,70 +159,70 @@
                             <?php if ($i==1): ?>
                                 <div >
                                     <div >
-                                        <p > <a style="font-size: 25px">1.Ford:</a>  Focus 2, S-Max, C-Max</p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==2): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">2.Range Rover</a></p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==3): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">3.Land Cruiser:</a>  200</p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==4): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">4.Hyundai:</a>  Porter</p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==5): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">5.Nissan</a> X-Trail, Teana, Note</p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==6): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">6.Toyota</a></p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==7): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">7.Reno:</a> Megan, Lada Largus, Logon</p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==8): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">8.Fiat:</a> Ducato</p >
-                                    </div >
-                                </div >
-                            <? endif; ?>
-                            <?php if ($i==9): ?>
-                                <div >
-                                    <div >
-                                        <p > <a style="font-size: 25px">9.Mitsubishi:</a>  Lanser 10, Outlander, Jeep Compas</p >
+                                        <p > <a style="font-size: 25px">Ford:</a>  Focus 2, S-Max, C-Max</p >
                                     </div >
                                 </div >
                             <? endif; ?>
                             <?php if ($i==10): ?>
                                 <div >
                                     <div >
-                                        <p > <a style="font-size: 25px">10.Honda:</a>  Civic</p >
+                                        <p > <a style="font-size: 25px">Range Rover, Land Rover</a></p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==9): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Land Cruiser:</a>  200</p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==8): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Hyundai:</a>  Porter</p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==7): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Nissan</a> X-Trail, Teana, Note</p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==2): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Toyota</a></p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==6): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Reno:</a> Megan, Lada Largus, Logon</p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==5): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Fiat:</a> Ducato</p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==3): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Mitsubishi:</a>  Lanser 10, Outlander, Jeep Compas</p >
+                                    </div >
+                                </div >
+                            <? endif; ?>
+                            <?php if ($i==4): ?>
+                                <div >
+                                    <div >
+                                        <p > <a style="font-size: 25px">Honda:</a>  Civic</p >
                                     </div >
                                 </div >
                             <? endif; ?>

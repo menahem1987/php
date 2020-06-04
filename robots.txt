@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://shingen-zhuk.ru/sitemap.xml
+Host: shingen-zhuk.ru

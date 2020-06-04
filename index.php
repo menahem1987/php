@@ -4,11 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="keywords" content="Ремонт генераторов, стартеров и шиномонтаж в Жуковском. Новые и востановленные агрегаты, стартеры,
+    генераторы. Ремонт стартера, стартеров, генератора, генераторов, в Жуковском, Раменском районе, Московская область,
+    продажа востановленных агрегатов, ремонт в тот же день, день в день, качество, гарантия, низкая стоимость,
+    шиномонтаж, балансировка, ремонт порезов проколов, стартеры и генераторы, для иномарок, Жуковский Раменское
+    Кратово, Люберцы, Малаховка, Томилино, Дзержинский, Красково, Лыткарино, Котельники, автомобильный, автомобильные">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta name="yandex-verification" content="31b3d4f00e4288b3" />
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
-    <title>Генераторы и шиномантаж</title>
+    <title>Ремонт генераторов, стартеров и шиномонтаж в Жуковском. Новые и востановленные агрегаты, стартеры,
+    генераторы.</title>
+    <meta name="description" content="Продажа, ремонт и техническое обслуживание стартеров и генераторов для любого вида техники.
+Мы знаем о стартерах и генераторах всё. Восстановим работоспособность и расскажем, как избежать неполадок в будущем!">
 </head>
 <body background="img/bg.jpg" class="bg">
 <?php require "blocks/header.php" ?>
@@ -17,7 +25,7 @@
     <div class="d-flex flex-wrap">
         <div class="card mb-4 shadow-sm">
             <div class="card-header">
-                <h4 class="my-0 font-weight-normal"> Ремонт генераторов, стартеров и шиномонтаж в Жуковском</h4>
+                <h1 class="my-0 font-weight-normal" style="font-size: 1.5rem"> Ремонт генераторов, стартеров и шиномонтаж в Жуковском</h1>
             </div>
             <div class="dist card-body">
                     <img class="img" src="img/1.jpg" alt="" class="img-thumbnail">
@@ -51,7 +59,7 @@
                                 стартеров и генераторов
                             </p></li>
                         <li><p> <b>> 5 000</b>
-                                оригинальных и дубликатных запчастей на складе в Москве
+                                оригинальных и дубликатных запчастей в Жуковском на складе в Москве
                             </p></li>
                         <li><p><b>> 50 000</b> отремонтированных стартеров и генераторов</p></li>
                         <li><p><b>Гарантия</b> на выполненные работы и запчасти</p></li>
@@ -65,7 +73,7 @@
                         <div class="inner">
                         <ul class="list-unstyled">
                         <li class=" color_text"><h3>Продажа, ремонт и техническое обслуживание стартеров и генераторов для любого вида техники</h3></li>
-                        <li class=" color_text">Для всех марок автомобилей зарубежного производства<br> Всё в наличии в Москве!</li>
+                        <li class=" color_text">Для всех марок автомобилей зарубежного производства<br> Всё в наличии в Жуковском на складе в Москве!</li>
                         <br>
                         </ul>
                             <div><h3 class="color_text2"><a class="p-2 text-dark" href="genstar.php">Новые и восстановленные агрегаты</a></h3>
@@ -171,25 +179,6 @@
                         <img class="img" src="img/generator2.jpg" alt="" class="img-thumbnail">
                     </div>
                 </div>
-                <!--<div class="card-header">
-                    <h4 class="my-0 font-weight-normal"> Наши видео</h4>
-                </div>
-                <div class="dist row">
-                    <div class="col-lg">
-                        <iframe width="300" height="200" src="https://www.youtube.com/embed/_YOoarKuweQ" frameborder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                    <div class="col-lg">
-                        <iframe width="300" height="200" src="https://www.youtube.com/embed/qctepfGH0Lk" frameborder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                allowfullscreen></iframe>
-                    </div>
-                    <div class="col-lg">
-                        <iframe width="300" height="200" src="https://www.youtube.com/embed/klauOY0uoJo" frameborder="0"
-                                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    </div>
-                </div>-->
                 <div class="card-header">
                     <h4><a  class="text-dark" href="about.php"> Как нас найти</a></h4>
                 </div>

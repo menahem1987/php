@@ -6,5 +6,4 @@
         <a class="p-2 text-dark" href="genstar.php">Агрегаты</a>
         <a class="p-2 text-dark" href="about.php">Контакты</a>
     </nav>
-    <!--<a class="btn btn-outline-primary" href="#">Войти</a>-->
 </div>
